@@ -1,0 +1,29 @@
+Functional Requirements
+
+pov user dev or nasabah
+upload data
+lihat data
+
+pov btpn
+lihat data
+approve
+rekap [bisa edit]
+
+kerjasama developer
+
+perorangan credit
+input nama, berkas
+user
+nama, btn cabang, memo
+
+nama
+developer or nasabah
+nama_berkas
+pdf, img
+
+
+Kurang
+- ngeset 
+
+where id user, id rekap
+rekap + status

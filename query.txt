@@ -1,0 +1,8 @@
+SELECT detail_rekap.id as id_detail, requirement.name as filename, detail_rekap.file as file, rekap.id as id_rekap, detail_rekap.status as status from requirement LEFT JOIN detail_rekap ON requirement.id = detail_rekap.id_requirement
+LEFT JOIN rekap ON rekap.id = detail_rekap.id_rekap;
+
+buat rekap dulu -> save
+terus ke halaman create detail
+
+klik detail langsung ke halaman edit
+hilangkan button delete ketika sudah di submit
